@@ -21,5 +21,7 @@ You can also limit your search to the most influential journals (reffer to the J
 13. Change the file location at line 6 to match the path to the file you just downloaded
 14. Run the code (bibliometrixAnalysis.R)
 
+For more details about the Bibliometrix library, please reffer to https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html
+
 ![alt text](https://github.com/silveira-alysson/literatureReview/blob/main/MIS_Journal_Ranking.png?raw=true)
 Source: http://www1.chapman.edu/~bdehning/MIS%20Journal%20Rankings.htm
