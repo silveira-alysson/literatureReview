@@ -4,8 +4,7 @@
 2. Define keywords based on the core construct
 3. Access an abstract and citation database (e.g. SCOPUS or Web of Science)
 4. Search keywords. If you are not sure of all keywords you want to search, first select a few papers that can provide insights of other terms to search.
-(image)
-
+![alt text](https://github.com/silveira-alysson/literatureReview/blob/main/1.search.png?raw=true)
 5. If needed, limit the subject area (e.g. Social Sciences, Business, Econometrics, etc)
 6. Select all papers 
 As you can only export 2000 documents at a time, you may want to limit your search even more. 
