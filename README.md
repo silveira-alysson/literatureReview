@@ -11,10 +11,15 @@ As you can only export 2000 documents at a time, you may want to limit your sear
 For instance, you select only 'Journal' as the source type, excluding 'Conference precedings', 'books', and other types.
 You can also limit your search to the most influential journals (reffer to the Journals Ranking at the end of this page).
 7. Click on Export option
+![alt text](https://github.com/silveira-alysson/literatureReview/blob/main/2.search.png?raw=true)
 8. Select BibTeX format
 9. Select all available fields
 10. Click on Export
+![alt text](https://github.com/silveira-alysson/literatureReview/blob/main/3.search.png?raw=true)
 11. A scopus.bib file will be downloaded to your Downloads folder (if using Windows)
 12. Open the R script and install the packages, if needed, by uncommenting the first two lines
 13. Change the file location at line 6 to match the path to the file you just downloaded
 14. Run the code (bibliometrixAnalysis.R)
+
+![alt text](https://github.com/silveira-alysson/literatureReview/blob/main/MIS_Journal_Ranking.png?raw=true)
+Source: http://www1.chapman.edu/~bdehning/MIS%20Journal%20Rankings.htm
